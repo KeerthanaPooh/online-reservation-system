@@ -12,3 +12,7 @@ This project allows users to **book, cancel, and view tickets** with a simple an
 ## Technologies Used
 - Java (Swing/AWT)
 - NetBeans / IntelliJ IDEA (IDE)
+
+- Author
+Keerthana Pooh
+https://www.linkedin.com/in/keerthanataruni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
